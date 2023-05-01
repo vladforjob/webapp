@@ -1,4 +1,4 @@
-module bigApp
+module github.com/vladforjob/webapp
 
 go 1.19
 
